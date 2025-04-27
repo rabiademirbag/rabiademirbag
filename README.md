@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rabia</h1>
 <h3 align="center">Frontend developer</h3>
 
+<p>I graduated in Computer Engineering, and I’m passionate about continuously improving my skills in software development. Right now, I’m taking a Full Stack .NET Core course at Patika and currently working on frontend development.
+I enjoy building dynamic and user-friendly web interfaces using React, JavaScript, HTML, and CSS. I also make sure to strengthen teamwork and keep my code quality high by using version control tools like Git and GitHub.
+My goal is to grow my career as a Full Stack Developer. As I move into backend development, I’m excited to dive deeper into .NET Core and database technologies and become a fully skilled developer.</p>
+
+
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **rddemirbagg@gmail.com**
