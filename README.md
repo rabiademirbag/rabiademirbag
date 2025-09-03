@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rabia</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Jr Back-End Developer</h3>
 
-<p>I graduated in Computer Engineering and I’m passionate about continuously improving my skills in software development. I’m taking a Full Stack .NET Core course and actively working on real-world projects. I completed the frontend development training at Patika and I'm currently focusing on backend development. By using version control tools like Git and GitHub, I aim to write clean code and collaborate effectively in team environments. My goal is to build a strong career as a Full Stack Developer.</p>
+<p> I am a Computer Engineering graduate and a Junior Backend Developer with a strong foundation in software  development. Through the Full Stack .NET Core Web Development training program at Patika, I developed 
+various projects using up-to-date technologies. I actively contribute to backend development processes with my analytical thinking, problem-solving  abilities, and disciplined work ethic. Fluent in Turkish and English, I work well in team environments and aim to 
+create human-centered technological solutions.</p>
 
 
-- 🌱 Technologies I’ve learned so far: **HTML, CSS, JavaScript, React**
+- 🌱 Technologies I’ve learned so far: **C#, ASP.NET, PostgreSQL, MVC, MSSQL, HTML, CSS, JavaScript, React**
 
-- 🌱 Currently learning: **C#, ASP.NET, PostgreSQL, MVC**
 
 - 📫 How to reach me **rddemirbagg@gmail.com**
 
